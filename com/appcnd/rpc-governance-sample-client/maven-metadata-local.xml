@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.appcnd</groupId>
+  <artifactId>rpc-governance-sample-client</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180915121717</lastUpdated>
+  </versioning>
+</metadata>
