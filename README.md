@@ -1,0 +1,14 @@
+```xml
+   <repositories>
+        <repository>
+            <id>nihao-maven-snapshot-repository</id>
+            <name>nihao-maven-snapshot-repository</name>
+            <url>https://raw.github.com/nihao17546/maven/snapshot/</url>
+        </repository>
+        <repository>
+            <id>nihao-maven-release-repository</id>
+            <name>nihao-maven-release-repository</name>
+            <url>https://raw.github.com/nihao17546/maven/release/</url>
+        </repository>
+    </repositories>
+```
