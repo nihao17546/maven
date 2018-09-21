@@ -10,5 +10,9 @@
             <name>nihao-maven-release-repository</name>
             <url>https://raw.github.com/nihao17546/maven/release/</url>
         </repository>
+        <repository>
+            <id>aliyunmaven</id>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+        </repository>
     </repositories>
 ```
